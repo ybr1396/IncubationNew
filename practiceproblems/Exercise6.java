@@ -9,7 +9,7 @@ public class Exercise6 {
 		number=1;
 		for(j=0;j<=i;j++)
 		{
-		System.out.print(number+ " ");
+		System.out.print(number+ "");
 		number++;
 			}
 			System.out.println();
