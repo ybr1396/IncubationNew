@@ -9,7 +9,7 @@ public class Nested_for {
 		{
 		System.out.print("*");
 	    }
-		System.out.println("");
+			
 	     System.out.println(" ");
 		}
 
